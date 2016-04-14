@@ -25,15 +25,14 @@ a = gets.chomp.to_i
 
 puts "please enter second number: "
 b = gets.chomp.to_i
-
-puts add()
-
+puts add() # fafasfda
+# github testing
 # puts "Welcome to RubyCalc"
-# puts "Would you like to 
-    # 0 ---- [exit],  
-    # 1 ---- [add], 
-    # 2 ---- [subtract], 
-    # 3 ---- [multiply], 
+# puts "Would you like to
+    # 0 ---- [exit],
+    # 1 ---- [add],
+    # 2 ---- [subtract],
+    # 3 ---- [multiply],
     # 4 ---- [divide]"
 
 # option = gets.chomp.to_s
@@ -45,7 +44,7 @@ puts add()
 # b = gets.chomp.to_i
 
 
-# case 
+# case
 # when 1
 # 	get_number
 # 	add
@@ -57,7 +56,7 @@ puts add()
 # when option == '4'
 # 	divide
 # when option == '0'
-# 	quit 
+# 	quit
 # end
 
 # def get_number
@@ -68,4 +67,3 @@ puts add()
 # end
 
 # puts "The result is: #{result}"
-
