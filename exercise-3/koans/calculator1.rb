@@ -25,7 +25,9 @@ a = gets.chomp.to_i
 
 puts "please enter second number: "
 b = gets.chomp.to_i
-puts add() # fafasfda
+puts add()
+# another git testing
+ # fafasfda
 # github testing
 # puts "Welcome to RubyCalc"
 # puts "Would you like to
